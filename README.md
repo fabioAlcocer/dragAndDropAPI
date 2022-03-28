@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Link](https://to-do-app-vanilla-fas.netlify.app/)
+- Live Site URL: [Link](https://drag-and-drop-api.netlify.app/)
 - Drag and Drop API Documentation: [Link](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
 
 ## My process
